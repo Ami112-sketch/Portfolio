@@ -1,1 +1,3 @@
-# Pollutants-PM-2.5-and-PM-10-
+# Data Sciemtis
+##Education
+Meteorology and Climate Science. B.Tech
